@@ -1,5 +1,5 @@
 # Facebooklogin-Python-Selenium
-Here is a simple way you can login to facebook or anyother website using python-Selenium
+Here is a simple way you can login to facebook or anyother website using python-Selenium.
 Incase you get error "selenium.common.exceptions.WebDriverException: Message: 'geckodriver' executable needs to be in PATH."
 Please follow below instructions
 First of all download latest executable geckodriver from below link and extract it to certain folder.
